@@ -7,7 +7,7 @@ export const dataFake = [
     },
     {
         "id": "2",
-        "title": "Título da parada",
+        "title": "Título da parada 2",
         "description": "descrição da parada",
         "photoCover": ""
     }
