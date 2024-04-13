@@ -1,0 +1,14 @@
+{
+    "builds": [
+      {
+        "src": "dist/blog-angular/**",
+        "use": "@vercel/static"
+      }
+    ],
+    "rewrites": [
+      {
+        "source": "/:path*",
+        "destination": "/index.html"
+      }
+    ]
+  }
