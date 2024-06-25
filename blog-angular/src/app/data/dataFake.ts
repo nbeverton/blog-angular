@@ -7,7 +7,19 @@ export const dataFake = [
     },
     {
         "id": "2",
-        "title": "Título da parada 2",
+        "title": "https://play-store-angular.vercel.app/",
+        "description": "https://play-store-angular.vercel.app/",
+        "photoCover": "assets/PlayStore-project.png"
+    },
+    {
+        "id": "3",
+        "title": "Título da parada 3",
+        "description": "descrição da parada",
+        "photoCover": ""
+    },
+    {
+        "id": "4",
+        "title": "Título da parada 4",
         "description": "descrição da parada",
         "photoCover": ""
     }

@@ -12,7 +12,7 @@
 
 .content__cover > img{
     width: 500px;
-    min-width: 500px;
+    min-width: 100px;
 }
 
 .content__title > h1 {
