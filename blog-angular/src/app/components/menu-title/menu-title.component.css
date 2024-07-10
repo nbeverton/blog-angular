@@ -13,6 +13,32 @@
 }
 
 .container__menu-title hr{
+    max-width: 100%;
     border-color: black;
     margin: 5px 0;
+}
+
+@media screen and (max-width: 800px) {
+    .container__menu-title > h1{
+        font-size: 100px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .container__menu-title > hr{
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .container__menu-title > h1{
+       max-width: 100%;
+       font-size: 50px;
+       display: flex;
+       justify-content: center;
+   }
+
+   .container__menu-title > hr{
+    max-width: 100%;
+}
 }

@@ -14,3 +14,12 @@ a, span{
     font-family: "Quicksand", sans-serif;
     font-weight: 300;
 }
+
+@media screen and (max-width: 800px) {
+    .container__menu-bar{
+      padding: 0 10px;
+      display: flex;
+      max-width: 100%;
+      justify-content: space-around;
+    }
+}

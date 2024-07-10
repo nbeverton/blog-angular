@@ -26,3 +26,15 @@ hr{
     border-color: black;
     margin: 15px 0;
 }
+
+@media screen and (max-width: 800px) {
+    .container__small-card{
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+
+    hr{
+        max-width: 100%;
+    }
+}
