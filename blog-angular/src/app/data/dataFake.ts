@@ -2,7 +2,7 @@ export const dataFake = [
     {
         "id": "1",
         "title": "Página experimental",
-        "description": "Essa é uma página experimental que, no futuro, entrará alguma coisa relevante...",
+        "description": "Essa é uma página experimental que, no futuro, receberá alguma informação relevante...",
         "photoCover": "https://assets1.ignimgs.com/thumbs/userUploaded/2021/7/16/junket071621missminutesclassiclokithumboov1-1626460837698.jpg"
     },
     {
@@ -15,12 +15,12 @@ export const dataFake = [
         "id": "3",
         "title": "Título 3",
         "description": "descrição 3",
-        "photoCover": ""
+        "photoCover": "https://assets1.ignimgs.com/thumbs/userUploaded/2021/7/16/junket071621missminutesclassiclokithumboov1-1626460837698.jpg"
     },
     {
         "id": "4",
         "title": "Título 4",
         "description": "descrição 4",
-        "photoCover": ""
+        "photoCover": "https://assets1.ignimgs.com/thumbs/userUploaded/2021/7/16/junket071621missminutesclassiclokithumboov1-1626460837698.jpg"
     }
 ]
