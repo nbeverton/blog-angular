@@ -7,7 +7,7 @@ O Blog Angular é uma aplicação web desenvolvida em Angular com o objetivo de 
 A aplicação foi criada para demonstrar habilidades em desenvolvimento web utilizando o framework Angular e boas práticas de codificação, organização de componentes, e responsividade.
 
 
-# Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Angular: Framework principal para o desenvolvimento.
 
@@ -18,7 +18,7 @@ HTML5 e CSS3: Criação de elementos estruturais e estilização da aplicação.
 Bootstrap: Para estilização responsiva e componentes pré-definidos.
 
 
-# Requisitos:
+## Requisitos:
 
 - Node & NPM:
     Responsável por traduzir o código de TS para uma linguagem que o browser consiga ler (JS/HTML/CSS);
@@ -33,40 +33,40 @@ Bootstrap: Para estilização responsiva e componentes pré-definidos.
     * Auto Rename Tag (Renomeia tags automaticamente - do HTML e XML);
     * Material Icon Theme (Identifica os ícones criados pelo tipo e customiza);
 
-# Instalação
+## Instalação
 
 Siga os passos abaixo para executar o projeto localmente:
-# Clone o repositório
+- Clone o repositório
 $ git clone https://github.com/nbeverton/blog-angular.git
 
-# Navegue até o diretório do projeto
+- Navegue até o diretório do projeto
 $ cd blog-angular
 
-# Instale as dependências
+- Instale as dependências
 $ npm install
 
-# Execute o servidor de desenvolvimento
+- Execute o servidor de desenvolvimento
 $ ng serve
 
-# Acesse a aplicação em seu navegador
+- Acesse a aplicação em seu navegador
 http://localhost:4200
 
 
-# Contribuição
+## Contribuição
 
 Contribuições são bem-vindas! Siga os passos abaixo para contribuir:
 
-Faça um fork do repositório.
+- Faça um fork do repositório.
 
-Crie uma branch para sua funcionalidade ou correção: git checkout -b minha-feature.
+- Crie uma branch para sua funcionalidade ou correção: git checkout -b minha-feature.
 
-Commit suas alterações: git commit -m 'Minha nova feature'.
+- Commit suas alterações: git commit -m 'Minha nova feature'.
 
-Envie para o repositório remoto: git push origin minha-feature.
+- Envie para o repositório remoto: git push origin minha-feature.
 
-Abra um Pull Request.
+- Abra um Pull Request.
 
-# Outros Comandos:
+## Outros Comandos:
 - ng new life-cycle
     * Gera uma estrutura de projetos.
 
@@ -77,12 +77,12 @@ Abra um Pull Request.
     * O comando generate serve para criar estruturas.
     * Nesse caso ele vai criar um COMPONENTE com o nome TITLE.
 
-# Contato
+## Contato
 
 Caso tenha alguma dúvida ou sugestão, entre em contato:
 
 Autor: nbeverton
 
-E-mail: snbeverton@gmail.com
+E-mail: nbeverton@gmail.com
 
 LinkedIn: [nbeverton](https://www.linkedin.com/in/evertonbarbosa-dev/)
